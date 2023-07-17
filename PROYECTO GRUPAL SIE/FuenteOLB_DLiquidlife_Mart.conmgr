@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FuenteOLB_DLiquidlife_Mart"
+  DTS:DTSID="{AC72273F-76BD-463B-BEC6-7700CA47C4DA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-47KQDP11\SQLEXPRESS;Initial Catalog=BDLiquidlife_Mart;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-PROYECTO GRUPAL SIE-{AC72273F-76BD-463B-BEC6-7700CA47C4DA}JULIOPC.BDLiquidlife_Mart;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
